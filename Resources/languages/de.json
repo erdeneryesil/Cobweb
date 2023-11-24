@@ -1,0 +1,12 @@
+{
+    	"labelPlayAgain":"Spiel Nochmal - niveau ",
+    	"labelNewGame":"Neues Spiel",
+	"labelHighScore":"Highscore",
+	"labelLevel":"niveau ",
+	"labelGameOver":"SPIEL IST AUS",
+	"labelCongratulations":"GLUCKWUNSCH!",
+	"labelYes":"Ja",
+	"labelNo":"Nein",
+	"labelSure":"Bestehendes spiel loschen?",
+	"labelScore":"Ergebnis"
+ }

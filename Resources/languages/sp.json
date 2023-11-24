@@ -1,0 +1,12 @@
+{
+    	"labelPlayAgain":"Juega De Nuevo. - nivel ",
+    	"labelNewGame":"Nuevo Juego",
+	"labelHighScore":"Puntuacion Mas Alta",
+	"labelLevel":"nivel ",
+	"labelGameOver":"JUEGO TERMINADO",
+	"labelCongratulations":"FELICITACIONES!",
+	"labelYes":"Si",
+	"labelNo":"No",
+	"labelSure":"Eliminar juego guardado?",
+	"labelScore":"Puntuacion"
+ }

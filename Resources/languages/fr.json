@@ -1,0 +1,12 @@
+{
+    	"labelPlayAgain":"Rejouer - niveau ",
+    	"labelNewGame":"Nouveau Jeu",
+	"labelHighScore":"Score Eleve",
+	"labelLevel":"niveau ",
+	"labelGameOver":"JEU TERMINE",
+	"labelCongratulations":"FELICITATIONS!",
+	"labelYes":"Oui",
+	"labelNo":"Non",
+	"labelSure":"Supprimer le jeu existant?",
+	"labelScore":"But"
+ }

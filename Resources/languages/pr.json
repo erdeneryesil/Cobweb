@@ -1,0 +1,12 @@
+{
+    	"labelPlayAgain":"Jogar De Novo - nivel ",
+    	"labelNewGame":"Novo Jogo",
+	"labelHighScore":"Pontuacao Maxima",
+	"labelLevel":"nivel ",
+	"labelGameOver":"FIM DE JOGO",
+	"labelCongratulations":"PARABENS!",
+	"labelYes":"Sim",
+	"labelNo":"Nao",
+	"labelSure":"Eliminar o jogo salvo?",
+	"labelScore":"Ponto"
+ }

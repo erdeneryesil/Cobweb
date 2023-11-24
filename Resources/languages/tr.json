@@ -1,0 +1,12 @@
+{
+    	"labelPlayAgain":"Yeniden Oyna - seviye ",
+    	"labelNewGame":"Yeni Oyun",
+	"labelHighScore":"Rekor Puan",
+	"labelLevel":"seviye ",
+	"labelGameOver":"OYUN BiTTi",
+	"labelCongratulations":"KAZANDINIZ!",
+	"labelYes":"Tamam",
+	"labelNo":"iptal",
+	"labelSure":"Kaydedilen oyunu sil?",
+	"labelScore":"Puan"
+ }

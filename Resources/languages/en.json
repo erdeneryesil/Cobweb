@@ -1,0 +1,12 @@
+{
+    	"labelPlayAgain":"Play Again - level ",
+    	"labelNewGame":"New Game",
+	"labelHighScore":"High Score",
+	"labelLevel":"level ",
+	"labelGameOver":"GAME OVER",
+	"labelCongratulations":"CONGRATULATIONS!",
+	"labelYes":"Yes",
+	"labelNo":"No",
+	"labelSure":"Delete saved game?",
+	"labelScore":"Score"
+ }
