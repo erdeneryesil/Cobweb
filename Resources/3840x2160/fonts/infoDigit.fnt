@@ -1,0 +1,17 @@
+info face=infoDigit size=132 bold=0 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=225 base=95 scaleW=155 scaleH=484 pages=1 packed=0
+page id=0 file="infoDigit.png"
+chars count=12
+char id=48 x=2 y=2 width=52 height=73 xoffset=12 yoffset=24 xadvance=70 page=0 chnl=15
+char id=49 x=2 y=77 width=31 height=71 xoffset=8 yoffset=18 xadvance=43 page=0 chnl=15
+char id=50 x=2 y=150 width=53 height=66 xoffset=6 yoffset=21 xadvance=63 page=0 chnl=15
+char id=51 x=35 y=77 width=53 height=66 xoffset=8 yoffset=25 xadvance=69 page=0 chnl=15
+char id=52 x=2 y=218 width=63 height=78 xoffset=4 yoffset=18 xadvance=70 page=0 chnl=15
+char id=53 x=56 y=2 width=66 height=73 xoffset=9 yoffset=11 xadvance=68 page=0 chnl=15
+char id=54 x=57 y=145 width=52 height=70 xoffset=12 yoffset=13 xadvance=66 page=0 chnl=15
+char id=55 x=2 y=298 width=55 height=69 xoffset=10 yoffset=24 xadvance=59 page=0 chnl=15
+char id=56 x=2 y=369 width=56 height=88 xoffset=9 yoffset=8 xadvance=71 page=0 chnl=15
+char id=57 x=60 y=298 width=53 height=90 xoffset=9 yoffset=0 xadvance=56 page=0 chnl=15
+char id=43 x=67 y=217 width=86 height=70 xoffset=-2 yoffset=23 xadvance=86 page=0 chnl=15
+char id=45 x=2 y=459 width=78 height=23 xoffset=8 yoffset=32 xadvance=96 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=8 yoffset=32 xadvance=52 page=0 chnl=15
